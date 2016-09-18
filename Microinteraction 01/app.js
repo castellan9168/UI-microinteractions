@@ -82,7 +82,7 @@ stateTwoRectangle.states.add({
 
 
 stateOneCircle.states.animationOptions = {
-	curve: "spring(150,10,0)",
+	curve: "spring(300,30,0)",
 };
 
 stateTwoRectangle.states.animationOptions = {
